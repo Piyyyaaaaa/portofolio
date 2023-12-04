@@ -49,8 +49,8 @@ nav ul li a:hover {
     text-decoration: none;
 }
 .skill {
-    width: 1903px;
-    padding: 190px 0px;
+    width: 1519px;
+    padding: 100px 0px;
     background-color: #181818;
 }
 .title {
@@ -62,5 +62,5 @@ nav ul li a:hover {
 }
 .skill img {
     padding: 3%;
-    margin-left: 100px;
+    margin-left: 25px;
 }

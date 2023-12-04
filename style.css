@@ -110,7 +110,7 @@ h4{
     right: 5px;
 }
 .about {
-    width: 1903px;
+    width: 1519px;
     padding: 100px 0px;
     background-color: #181818;
 }
@@ -271,7 +271,7 @@ h5 {
     cursor: pointer;
 }
 .skill {
-    width: 1903px;
+    width: 1519px;
     padding: 130px 0px;
     background-color: #181818;
 }
@@ -284,7 +284,7 @@ h5 {
 }
 .skill img {
     padding: 3%;
-    margin-left: 90px;
+    margin-left: 25px;
 }
 footer {
     position: relative;
