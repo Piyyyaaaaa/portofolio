@@ -51,14 +51,14 @@ nav ul li a:hover {
 .kontak {
     background: #181818;
     width: 100%;
-    padding: 70px 0;
+    padding: 100px 0;
 }
 .title {
     color: white;
     font-size: 20px;
-    width: 1519px;
+    width: 1130px;
     text-align: center;
-    margin-top: 50px;
+    margin: auto;
 }
 .box {
     display: flex;
